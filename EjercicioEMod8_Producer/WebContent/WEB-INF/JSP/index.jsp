@@ -19,8 +19,7 @@
 <!-- Página principal del modulo web de gestión de clientes. -->
 <!-- Ingresar datos del cliente para getionar en el Controller y después enviar por Spring JMS. -->
 
-<!-- JAVOL14_3 -->
-<!-- Módulo 8 Spring JMS y Spring Remoting -->
+<!-- Módulo Spring JMS -->
 <!-- ****************************************************** -->
 
 <body>
@@ -39,7 +38,6 @@
 	
 	<div class="container">
 	    <ul class="nav nav-pills nav-stacked pull-right copy">
-	    	<li>JAVOL14_3</li>
 	    	<li>Módulo Spring JMS</li>
 	    	<li>arellano84</li>
 	    </ul>
